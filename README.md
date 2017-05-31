@@ -1,5 +1,5 @@
 # ParseChats
-This project will be used to build a parser to parse chat messages written in English language for non-english language.
+This project will be used to build a parser to parse chat messages written using English alphabets for non-english language.
 
 Country like India people use English words frequently when then converse. This prompts them to write words from Indian language even using English alphabets. 
 This creates a problem for the language parsers used to parse these chat messages as they cannot match the words in the standatd English dictionary
