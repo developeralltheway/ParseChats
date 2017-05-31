@@ -15,6 +15,8 @@ The approach I would take is to split the sentence based on word boundaries, and
 
 -------->>>>> Add the appoach
 
+AT THIS POINT I AM CREATING A PROTOTYPE..........
+
 There are fillers in the sentence, or rather noise which needs to be removed. 
 
 My intention of creating this project is an attempt to solve this problem.
